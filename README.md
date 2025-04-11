@@ -2,6 +2,10 @@
 
 This is a Spring Boot template project that includes basic configurations for a REST API, H2 in-memory database, and Swagger for API documentation.
 
+## Prerequisites
+
+- **Java 21**: This project is developed with Java 21.
+
 ## Dependencies
 
 The following dependencies are included in the `pom.xml`:
@@ -33,7 +37,7 @@ The following dependencies are included in the `pom.xml`:
 
 ### Application Properties
 
-The application is configured using the `application.properties` file. Key configurations include:
+Key configurations include:
 
 - **H2 Database**:
     - Name: `springboot_template`
