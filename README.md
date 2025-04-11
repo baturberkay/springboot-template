@@ -33,7 +33,7 @@ The following dependencies are included in the `pom.xml`:
 
 ### Application Properties
 
-The application is configured using the `application.properties` file. Key configurations include:
+Key configurations include:
 
 - **H2 Database**:
     - Name: `springboot_template`
